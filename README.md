@@ -24,9 +24,9 @@ Instalação manual:<br><br>
 ### NOVO: Para usar com o delphi 10.4 Sydney, incluir no library path 32 bits a pasta <b>Compilados</b> e suas subpastas.<br><br>
 1-Clonar o repositório Projeto-TInject
 <br></br>
-2-Baixar e instalar o CEF4Delphi em: http://www.softmaisbrasil.com.br/#blog
+2-Baixar e instalar o CEF4Delphi: [https://github.com/jaquiel/CEF4Delphi]
 <br></br>
-3-Baixar a pasta BIN em: http://www.softmaisbrasil.com.br/#blog
+3-Baixar a pasta BIN: [https://github.com/jaquiel/CEF4Delphi] http://www.softmaisbrasil.com.br/#blog
 <br></br>
 4-Copiar todo o conteúdo baixado da pasta BIN no passo 3 para a pasta BIN na raiz do projeto (Caso não exista a pasta BIN em seu projeto Crie)
 <br></br>
